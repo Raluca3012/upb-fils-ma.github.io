@@ -18,7 +18,7 @@ The SmartBot Navigator is an innovative autonomous robot designed to navigate in
 - **Narrow Passage**: When the robot navigates through tight spaces.
 - **Recharge Needed**: When the battery level is low, indicating the need to return to its charging station.
 
-This autonomous robot includes a Bluetooth module for real-time data transmission to a PC, allowing users to monitor the robot remotely. The design prioritizes efficiency, activating sensors and navigation systems only when necessary to conserve power and extend operational periods.
+This autonomous robot includes a Bluetooth module for real-time data transmission to a PC, allowing users to monitor and control the robot remotely. The design prioritizes efficiency, activating sensors and navigation systems only when necessary to conserve power and extend operational periods.
 
 ## Motivation
 
@@ -65,7 +65,7 @@ The architecture of the SmartBot Navigator is designed to ensure robust operatio
 - I made the documentation of the project.
 - I procured the hardware components.
 
-### Week 13 - 19 May
+### Week 7 - 19 May
 - I added KiCAD Schematics.
 - I assembled the initial rendition of this robot for the purposes of showing a rough initial image.
 
